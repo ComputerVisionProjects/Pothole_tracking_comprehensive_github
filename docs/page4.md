@@ -344,6 +344,8 @@ The processed video framesâ€”annotated with bounding boxes, FPS, and servo dataâ
 
 This architecture enables responsive and spatially accurate pothole tracking suitable for autonomous or semi-autonomous robotic systems.
 
+Keep in mind I observed even when the camera/apparatus was tilted the error introduced was not significant enough to offset the light path from the pothole, I would suggest anyone working on this project to work on the fixed camera solution only.
+
 ## PID control system for the mounted camera setup
 
 PID is a control method that allows us to manage various aspects of motor motion. Below is the code for implementing the PID control system.

@@ -1,0 +1,14 @@
+description: Ultralytics YOLO11n model trained on /content/gdrive/MyDrive/yolov11-8custom_architectural_changes/yolov11-8custom/data_custom.yaml
+author: Ultralytics
+date: '2024-12-18T11:50:25.318698'
+version: 8.3.28
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: pothole

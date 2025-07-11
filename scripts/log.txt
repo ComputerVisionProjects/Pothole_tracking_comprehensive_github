@@ -1,0 +1,13 @@
+Pothole no: 0, Pothole coordinates: (tensor(65.0066, device='cuda:0'), tensor(243.2093, device='cuda:0')), confidence=0.2
+Pothole no: 1, Pothole coordinates: (tensor(42.6999, device='cuda:0'), tensor(274.0820, device='cuda:0')), confidence=0.2
+Pothole no: 2, Pothole coordinates: (tensor(42.0484, device='cuda:0'), tensor(261.2798, device='cuda:0')), confidence=0.2
+Pothole no: 0, Pothole coordinates: (tensor(916.0621, device='cuda:0'), tensor(450.0602, device='cuda:0')), confidence=0.2
+Pothole no: 1, Pothole coordinates: (tensor(111.0111, device='cuda:0'), tensor(521.7798, device='cuda:0')), confidence=0.2
+Pothole no: 2, Pothole coordinates: (tensor(940.1932, device='cuda:0'), tensor(609.0547, device='cuda:0')), confidence=0.2
+Pothole no: 3, Pothole coordinates: (tensor(860.7144, device='cuda:0'), tensor(603.4722, device='cuda:0')), confidence=0.2
+Pothole no: 4, Pothole coordinates: (tensor(71.7856, device='cuda:0'), tensor(677.6296, device='cuda:0')), confidence=0.2
+Pothole no: 5, Pothole coordinates: (tensor(1261.2981, device='cuda:0'), tensor(680.7491, device='cuda:0')), confidence=0.2
+Pothole no: 6, Pothole coordinates: (tensor(32.2871, device='cuda:0'), tensor(600.1570, device='cuda:0')), confidence=0.2
+Pothole no: 7, Pothole coordinates: (tensor(1049.6814, device='cuda:0'), tensor(665.6330, device='cuda:0')), confidence=0.2
+Pothole no: 8, Pothole coordinates: (tensor(130.8972, device='cuda:0'), tensor(681.6017, device='cuda:0')), confidence=0.2
+Pothole no: 9, Pothole coordinates: (tensor(640., device='cuda:0'), tensor(360., device='cuda:0')), confidence=0.2

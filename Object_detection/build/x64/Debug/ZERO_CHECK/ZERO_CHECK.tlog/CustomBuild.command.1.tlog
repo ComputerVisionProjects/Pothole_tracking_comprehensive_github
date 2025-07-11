@@ -1,0 +1,10 @@
+^E:\IMAGES_POTHOLES_1\DATASET-POTHOLE\YOLOV8_CUSTOM\OBJECT_DETECTION\BUILD\CMAKEFILES\84B16D11D6C0300BA713AFEDA4AFE298\GENERATE.STAMP.RULE
+setlocal
+E:\Software\cmake-3.30.0-rc4-windows-x86_64\bin\cmake.exe -SE:/images_potholes_1/dataset-pothole/yolov8_custom/Object_detection -BE:/images_potholes_1/dataset-pothole/yolov8_custom/Object_detection/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/images_potholes_1/dataset-pothole/yolov8_custom/Object_detection/build/Object_detection.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

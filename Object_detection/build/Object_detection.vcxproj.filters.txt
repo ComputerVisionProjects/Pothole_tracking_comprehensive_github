@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\images_potholes_1\dataset-pothole\yolov8_custom\Object_detection\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\images_potholes_1\dataset-pothole\yolov8_custom\Object_detection\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4D15BC02-C81B-3012-B988-92DF0D02D040}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

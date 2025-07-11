@@ -1,0 +1,5 @@
+train: D:\Arybhatta_motors_computer_vision\Yolov8_custom\train
+val: D:\Arybhatta_motors_computer_vision\Yolov8_custom\val
+
+nc: 1
+names: ["pothole"]

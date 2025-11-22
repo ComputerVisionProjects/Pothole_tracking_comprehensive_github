@@ -1,5 +1,5 @@
-site_name: Pothole tracking aryabhatta motors
-theme:
+site_name: Pothole tracking Public.
+
   name: material
   features:
     - navigation.sections

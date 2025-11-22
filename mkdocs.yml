@@ -1,5 +1,5 @@
 site_name: Pothole tracking Public
-
+theme:
   name: material
   features:
     - navigation.sections
@@ -24,7 +24,6 @@ site_name: Pothole tracking Public
         name: Switch to light mode
       primary: teal
       accent: lime 
-
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -38,4 +37,3 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
-                

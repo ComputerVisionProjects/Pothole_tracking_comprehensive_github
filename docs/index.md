@@ -1,5 +1,5 @@
 # Home
-This documentation is a guide and a explanation to all the scripts used in the pothole tracking project. All the code will be explained with the help of comments please pay attention to them.
+This documentation is a guide and a explanation to all the scripts used in the pothole tracking project. All the code will be explained with the help of comments please pay attention to them. As a disclaimer LLM's have been used to generate code in this project.
 
 ## Directory structure of the project
 
